@@ -120,7 +120,7 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000250/versions/draft/assets/
 name: High-resolution tracking of Drosophila during egg-laying
 protocol:
-- 'https://doi.org/10.1101/2021.09.23.461548 '
+- https://doi.org/10.1101/2021.09.23.461548
 relatedResource:
 - identifier: https://doi.org/10.1101/2021.09.23.461548
   name: A rise-to-threshold signal for a relative value deliberation
